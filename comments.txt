@@ -1,0 +1,22 @@
+I really dislike the use of the possessive for inanimate objects.
+
+
+You could probably remove this equation and simply say that the condition is that equality holds in Eq. 4. It¡¯s OK as is, but I was confused for a second because I had to compare the equations to see that the inequality had been replaced with the equals sign.
+
+Is it true that we assume Vy = 0? I thought we were using the vehicle characteristics and the road geometry to work out the steady-state Vy. This is something that someone might call into question, though the other variables should be OK. I¡¯d also rearrange to put the derivatives first, then Vy and r.
+
+At the very least, we might want to discuss which cases do have an analytical solution?
+
+I think I missed something here. Are we no longer presenting the analytical results? It¡¯s in the title and abstract that we decided on, so we may want to rethink that.
+
+
+IEEE ITSC 2021
+Home
+Contributions
+Call for paper
+Information for authors
+Best Student Paper Award Nomination
+Special Sessions
+Workshops
+Submit
+Committees

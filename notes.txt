@@ -1,0 +1,3 @@
+In this section, we discuss the friction preview distance, which indicates how much friction data (how far ahead friction data) a vehicle needs to query from a database so that it can have sufficient time to take action for any upcoming situation. 
+
+The grade of the path also has a significant influence on the vehicle acceleration and deceleration behavior. (need to add it and modify the curvature to geometry) the description of path geometry can also refer to [J. Subosits and J. C. Gerdes, ¡°Autonomous vehicle control for emergency maneuvers: The effect of topography,¡± Proc. Am. Control Conf., vol. 2015-July, pp. 1405¨C1410, 2015, doi: 10.1109/ACC.2015.7170930.].
